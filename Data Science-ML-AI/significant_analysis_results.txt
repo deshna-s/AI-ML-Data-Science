@@ -1,0 +1,10 @@
+Significant Correlation Values (abs value > 0.5):
+                                                                               Deaths in ongoing conflicts in a country (best estimate) - Conflict type: all  GDP per capita, PPP (constant 2017 international $)  Refugees by country of origin per 100,000 people
+Deaths in ongoing conflicts in a country (best estimate) - Conflict type: all                                                                            1.0                                                  NaN                                               NaN
+GDP per capita, PPP (constant 2017 international $)                                                                                                      NaN                                                  1.0                                               NaN
+Refugees by country of origin per 100,000 people                                                                                                         NaN                                                  NaN                                               1.0
+
+Linear Regression Model Results:
+Coefficients: [-0.1782352   0.00046149]
+Intercept: 5365.35577680635
+R-squared: 0.0106
